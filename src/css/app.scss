@@ -1,0 +1,15 @@
+// app global css in SCSS form
+
+*{
+    color: $nord4;
+}
+
+
+
+
+body{
+  background: $nord1;
+  background: linear-gradient(155deg, rgba(59,66,82,1) 0%, rgba(94,129,172,1) 80%);
+  background-image: url('../assets/Wave\ Line.svg');
+}
+

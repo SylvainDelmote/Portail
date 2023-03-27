@@ -1,0 +1,24 @@
+[{
+"id" : 0,
+"title" : "Appli A",
+"icon" : "waving_hand",
+"caption" : "Lorem Ipsum",
+"color" :"info"
+},
+
+{
+"id" : 1,
+"title" : "Appli B",
+"caption" : "Lorem Ipsum",
+"icon" : "front_hand",
+"color" :"negative"
+},
+{
+"id" : 2,
+"title" : "Appli C",
+"caption" : "Lorem Ipsum",
+"icon" : "forest",
+"color" :"warning"
+}
+
+]

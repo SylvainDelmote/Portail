@@ -1,0 +1,88 @@
+// Quasar SCSS (& Sass) Variables
+// --------------------------------------------------
+
+// https://www.nordtheme.com/docs/colors-and-palettes
+
+
+
+
+// Polar Night
+$nord0   : #2E3440;
+$nord1   : #3B4252;
+$nord2  : #434C5E;
+$nord3   : #4C566A;
+
+// Snow Storm
+$nord4 : #D8DEE9;
+$nord5 : #E5E9F0;
+$nord6 : #ECEFF4;
+
+// Frost
+$nord7   : #8FBCBB;
+$nord8   : #88C0D0;
+$nord9  : #81A1C1;
+$nord10   : #5E81AC;
+
+//Aurora
+$nord11   : #BF616A;
+$nord12  : #D08770;
+$nord13  : #EBCB8B;
+$nord14   : #A3BE8C;
+$nord15   : #B48EAD;
+
+
+
+/* NORD0
+- For dark ambiance designs, it is used for background and area coloring.
+- For bright ambiance designs, it is used for base elements like plain text,
+  the text editor caret and reserved syntax characters like curly- and square brackets.
+
+  NORD1
+- For dark ambiance designs it is used for elevated, more prominent or focused UI elements like
+status bars and text editor gutters panels, modals and floating popups like notifications or auto completion
+user interaction/form components like buttons, text/select fields or checkboxes
+
+- For bright ambiance designs, it is used for more subtle/inconspicuous UI text elements that do not need so much visual attention.
+Other use cases are also state animations like a more brighter text color when a button is hovered, active or focused.
+
+   NORD2
+For dark ambiance designs, it is used to colorize the currently active text editor line as well as selection- and text highlighting color.
+For both bright & dark ambiance designs it can also be used as an brighter variant for the same target elements like nord1.
+
+   NORD3
+For dark ambiance designs, it is used for UI elements like indent- and wrap guide marker.
+In the context of code syntax highlighting it is used for comments and invisible/non-printable characters.
+
+For bright ambiance designs, it is, next to nord1 and nord2 as darker variants, also used for the most subtle/inconspicuous UI text elements that do not need so much visual attention.
+
+    NORD4
+The origin color or the Snow Storm palette.
+
+For dark ambiance designs, it is used for UI elements like the text editor caret.
+In the context of syntax highlighting it is used as text color for variables, constants, attributes and fields.
+
+For bright ambiance designs, it is used for elevated, more prominent or focused UI elements like
+
+status bars and text editor gutters
+panels, modals and floating popups like notifications or auto completion
+user interaction/form components like buttons, text/select fields or checkboxes
+It also works fine for more inconspicuous and passive elements like borders or as dropshadow between different components.
+In the context of syntax highlighting it's not used at all.
+
+      NORD5
+A brighter shade color of nord4.
+
+For dark ambiance designs, it is used for more subtle/inconspicuous UI text elements that do not need so much visual attention.
+Other use cases are also state animations like a more brighter text color when a button is hovered, active or focused.
+
+For bright ambiance designs, it is used to colorize the currently active text editor line as well as selection- and text highlighting color.
+
+      NORD6
+The brightest shade color based on nord4.
+
+For dark ambiance designs, it is used for elevated UI text elements that require more visual attention.
+In the context of syntax highlighting it is used as text color for plain text as well as reserved and structuring syntax characters like curly- and square brackets.
+
+For bright ambiance designs, it is used as background and area coloring while it's not used for syntax highlighting at all because otherwise it would collide with the same background color.
+ */
+
